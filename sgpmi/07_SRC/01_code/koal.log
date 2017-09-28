@@ -1,0 +1,10 @@
+2017-07-20 13:55:17 [INFO ] webService.WebService (startHttp:92) - WebService的Http服务已开启，请通过http://0.0.0.0:9000/ws/face?wsdl 验证是否正常。
+2017-07-20 13:55:17 [INFO ] webService.WebService (startGateHttpsSingle:127) - WebService对应网关https单向认证已开启，请通过http://0.0.0.0:9445/ws/face?wsdl 验证是否正常。
+2017-07-20 13:55:17 [INFO ] webService.WebService (startGateHttpsDouble:109) - WebService对应网关https双向认证已开启，请通过http://0.0.0.0:9444/ws/face?wsdl 验证是否正常。
+2017-07-20 13:55:19 [INFO ] tomcat.TomcatServerBase (initServer:206) - Finded Base Web Root is :C:\Users\hk\Desktop\SGPMI-1.0.1-r20170720\SGPMI\WebContent
+2017-07-20 13:55:27 [INFO ] tomcat.TomcatServerBase (startServer:394) - HTTP Service is start successfully: {0.0.0.0:11080}
+2017-07-20 13:56:57 [INFO ] webService.WebService (startHttp:92) - WebService的Http服务已开启，请通过http://0.0.0.0:9000/ws/face?wsdl 验证是否正常。
+2017-07-20 13:56:57 [INFO ] webService.WebService (startGateHttpsSingle:127) - WebService对应网关https单向认证已开启，请通过http://0.0.0.0:9445/ws/face?wsdl 验证是否正常。
+2017-07-20 13:56:57 [INFO ] webService.WebService (startGateHttpsDouble:109) - WebService对应网关https双向认证已开启，请通过http://0.0.0.0:9444/ws/face?wsdl 验证是否正常。
+2017-07-20 13:56:58 [INFO ] tomcat.TomcatServerBase (initServer:206) - Finded Base Web Root is :C:\Users\hk\Desktop\01_work\webroot\SGPMI-1.1.0-r20170630\SGPMI\WebContent
+2017-07-20 13:57:04 [INFO ] tomcat.TomcatServerBase (startServer:394) - HTTP Service is start successfully: {0.0.0.0:11080}
